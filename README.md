@@ -1,6 +1,6 @@
 # 📌 Clone Amazon
 
-Clone do site da Amazon com implementação de navegação básica.
+Clone da interface da Amazon com implementação de navegação básica.
 
 ## 🚀 Tecnologias
 
@@ -10,28 +10,24 @@ Clone do site da Amazon com implementação de navegação básica.
 
 ## ✨ Funcionalidades
 
-* Listagem de músicas
-* Player com controles (play, pause, próxima, anterior)
-* Barra de progresso
-* Interface inspirada no Spotify
+* Interface inspirada na página inicial da Amazon
+* Header com barra de navegação
+* Área de busca visual
+* Seções de produtos
+* Cards de produtos/categorias
+* Layout organizado para apresentação de conteúdo
+* Navegação básica entre elementos da página
 
 ## ⚙️ Como executar
 
-```bash
-git clone https://github.com/kayquemab/Projeto_CloneSpotify
-cd CloneSpotify
-
-# Instalar dependências
-npm install
-
-# Executar o projeto
-npm run dev
-```
+Baixar ou clonar o repositório e abrir o arquivo `index.html` no navegador
 
 ## 📌 Observações
 
-* Requer Node.js instalado
-* Utiliza dados mockados/local
+* Projeto estático, sem necessidade de instalação
+* Desenvolvido para fins de estudo e prática de front-end
+* Inspirado visualmente na interface da Amazon
+* Não possui integração real com e-commerce, carrinho ou pagamentos
 
 ## 👤 Autor
 
