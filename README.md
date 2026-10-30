@@ -26,7 +26,7 @@ Baixar ou clonar o repositório e abrir o arquivo `index.html` no navegador
 
 * Projeto estático, sem necessidade de instalação
 * Desenvolvido para fins de estudo e prática de front-end
-* Inspirado visualmente na interface da Amazon
+* Inspirado visualmente na interface da Amazon (2024)
 * Não possui integração real com e-commerce, carrinho ou pagamentos
 
 ## 👤 Autor
